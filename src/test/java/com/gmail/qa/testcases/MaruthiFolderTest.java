@@ -22,4 +22,11 @@ public class MaruthiFolderTest extends testbase{
 	  
 	  
   }
-}
+
+	@Test
+	public void printing() {
+		System.out.println("first chech");
+		System.out.println("second check");
+		
+	}
+	}
